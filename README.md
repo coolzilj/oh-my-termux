@@ -14,5 +14,5 @@ apt install -y curl
 
 # Installation
 ```bash
-bash -c "$(curl -fsSL https://git.io/vuMdM)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolzilj/oh-my-termux/master/install.sh)"
 ```
